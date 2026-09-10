@@ -120,4 +120,4 @@ The game can be improved further by adding:
 
 **Hemlata Kumari**
 
-Built with ❤️ using Python.
+Built with using Python.
